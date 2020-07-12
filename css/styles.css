@@ -1,0 +1,33 @@
+body {
+  background-color: #e4f9ff;
+}
+
+.topic {
+  background-color: #204051;
+  color: #14b1ab;
+}
+
+h1 {
+  color: #05dfd7;
+}
+
+h2 {
+  color: #14b1ab;
+}
+
+hr {
+  height: 0;
+  width: 15%;
+  border-style: dashed;
+  border-width: 2px;
+  border-color: #a3f7bf;
+}
+li{
+  color: #0fabbc;
+}
+td{
+  color: #0fabbc;
+}
+p{
+  color: #0fabbc;
+}
